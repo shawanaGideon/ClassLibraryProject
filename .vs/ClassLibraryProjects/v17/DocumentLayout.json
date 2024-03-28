@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A74A0D-862E-4BD7-ACF7-2C14E11CA84B}|StringLibrary\\StringLibrary.csproj|c:\\users\\test\\source\\repos\\devops\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A74A0D-862E-4BD7-ACF7-2C14E11CA84B}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEF76B3-40C6-46FD-81F9-54816DDA97F5}|ShowCase\\ShowCase.csproj|c:\\users\\test\\source\\repos\\devops\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEF76B3-40C6-46FD-81F9-54816DDA97F5}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A74A0D-862E-4BD7-ACF7-2C14E11CA84B}|StringLibrary\\StringLibrary.csproj|c:\\users\\test\\source\\repos\\devops\\classlibraryprojects\\stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{51A74A0D-862E-4BD7-ACF7-2C14E11CA84B}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:55:04.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringLibrary",
+              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+              "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
+              "ToolTip": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+              "RelativeToolTip": "StringLibrary\\StringLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T03:47:40.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\test\\source\\repos\\devops\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
+              "RelativeToolTip": "StringLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:46:46.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

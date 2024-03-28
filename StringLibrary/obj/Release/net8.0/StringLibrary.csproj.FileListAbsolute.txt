@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.deps.json
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.dll
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.pdb
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.dll
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\refint\StringLibrary.dll
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.pdb
+C:\Users\test\source\repos\devops\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\ref\StringLibrary.dll
